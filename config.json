@@ -1,0 +1,113 @@
+{
+  "call_types": {
+    "keyboard_maestro": {
+      "url" : "http://localhost:4490/action.html?macro="
+    }
+  },
+  "pages": {
+    "home": [
+      {
+        "text": "BROWSER\nFirefox",
+        "type": "button",
+        "call_type": "keyboard_maestro",
+        "attribute": "4670B0B7-ED9A-4FCF-80E5-8B697A555676"
+      },
+      {
+        "text": "Sublime\nText",
+        "type": "button",
+        "call_type": "keyboard_maestro",
+        "attribute": "3D930B24-3E3A-4B6F-9712-FB6FC02F5DEC"
+      },
+      {
+        "text": "PHP\nStorm",
+        "type": "button",
+        "call_type": "keyboard_maestro",
+        "attribute": "F4064067-965B-4C6B-9897-985682750F2C"
+      },
+      {
+        "text": "PAW",
+        "type": "button",
+        "call_type": "keyboard_maestro",
+        "attribute": "F6AE089C-7C6E-461E-BA90-0D20ACA5CC2B"
+      },
+      {
+        "type":"placeholder"
+      },
+      {
+        "text": "VOLUME\nUP",
+        "type": "button",
+        "call_type": "keyboard_maestro",
+        "attribute": "7DEEF75A-E23A-4A29-ADF3-532D5E41EA4C"
+      },      
+      {
+        "text": "VOLUME\nMUTE",
+        "type": "button",
+        "call_type": "keyboard_maestro",
+        "attribute": "2FC91BBE-02B8-43F3-B5B3-22B17F882ECE"
+      },
+      {
+        "text": "VOLUME\nDOWN",
+        "type": "button",
+        "call_type": "keyboard_maestro",
+        "attribute": "6DDD14FE-992E-4D39-BC83-7EFCE711DD3E"
+      },
+      {
+        "type":"placeholder"
+      },
+      {
+        "type":"placeholder"
+      },
+      {
+        "text": "NEXT",
+        "type": "button",
+        "call_type": "keyboard_maestro",
+        "attribute": "AAE69325-90A2-4086-BFBF-5DBEBC3132DE"
+      },
+      {
+        "text": "PLAY",
+        "type": "button",
+        "call_type": "keyboard_maestro",
+        "attribute": "8E2401E1-6736-4ACD-851D-E0711A2A54B0"
+      },
+      {
+        "text": "PREV",
+        "type": "button",
+        "call_type": "keyboard_maestro",
+        "attribute": "B7CA6E5A-8C25-48DB-9B14-8596B26FAFCD"
+      }],
+    "iterm": [
+      {
+        "call_type": "keyboard_maestro",
+        "text": "DOCKER\nPS",
+        "attribute": "B6E0BE93-114E-4BE8-875E-5CC9F562380D",
+        "type": "button"
+      },
+      {
+        "call_type": "keyboard_maestro",
+        "text": "DOCKER\nLOGS",
+        "attribute": "2165FEB1-E7E9-486D-89C2-1DCA7BAD9042",
+        "type": "button"
+      },
+      {
+        "call_type": "keyboard_maestro",
+        "text": "DOCKER\nEXEC",
+        "attribute": "A617B466-99C5-4330-ADF5-FBDD86D4F95B",
+        "type": "button"
+      },
+      {
+        "call_type": "keyboard_maestro",
+        "text": "EXIT",
+        "attribute": "1549A9BA-4916-4E5C-8B0C-A9D3BB8A71BE",
+        "type": "button"
+      }
+    ],
+    "phpstorm":[
+      {
+        "text": "PRE",
+        "type": "button",
+        "call_type": "keyboard_maestro",
+        "attribute": "BACE68CA-CF9C-437F-BBF6-5C8E72ADEE38"
+      }
+]
+  }
+}
